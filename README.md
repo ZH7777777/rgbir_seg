@@ -1,6 +1,8 @@
-# rgb_ir_seg
-unofficial implementation of sota on the MFNet 
-some attempt of applying domain adaptation,transformer module,reconstruct,fusion on the RGB-IR segmentation
+# RGB-IR-Segmentation
+- unofficial implementation of sota on the MFNet dataset
+  
+- some attempt of applying domain adaptation,transformer module,reconstruct,fusion on the RGB-IR segmentation
+
 
 ## Models List
 
