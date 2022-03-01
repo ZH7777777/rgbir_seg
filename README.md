@@ -1,5 +1,5 @@
 # RGB-IR-Segmentation
-- unofficial implementation of sota on the MFNet dataset
+- unofficial implementations of sota on the MFNet dataset
   
 - some attempt of applying domain adaptation,transformer module,reconstruct,fusion on the RGB-IR segmentation
 
